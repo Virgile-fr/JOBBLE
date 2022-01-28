@@ -112,7 +112,6 @@ body{
   // ℹ️ 926px is the height of iphone pro max
   // ✅ max-height: calc( #{$iHeight} - #{$status-bar} );
   // ℹ️ 428px is the iphone pro max width
-  max-width: $iWidth;
   box-shadow: 0 0 90px black;
 }
 
