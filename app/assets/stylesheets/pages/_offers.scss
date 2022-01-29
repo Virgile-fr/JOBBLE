@@ -15,9 +15,9 @@ background-size: cover;
 }
 
 .offer-global-content{
-position: relative;
+position: sticky;
+bottom: -300px;
 z-index: 1 !important;
-margin-top: -200px;
 }
 
 .offer-name{

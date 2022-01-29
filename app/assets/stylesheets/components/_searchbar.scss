@@ -1,6 +1,6 @@
 .input-search-div {
   max-height: 100px;
-  width: calc(#{$iWidth} - 60px);
+  width: calc(100vw - 60px);
   position: fixed;
   bottom: $tab-bar;
   left: 30px;
@@ -13,7 +13,7 @@
 }
 
 input{
-width: calc(#{$iWidth} - 60px);
+width: calc(100vw - 60px);
 background-color: $obsydian ;
 color: white;
 border-radius: 40px;
